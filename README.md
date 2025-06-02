@@ -13,4 +13,4 @@ Read our documentation [here](https://dlt-media.github.io/docs/).
 ## Installation
 First, navigate to your webserver's document root and clone this repo:
 
-    git clone https://github.com/dlt-media/template project-name
+    git clone https://github.com/touchtreetech/template project-name
